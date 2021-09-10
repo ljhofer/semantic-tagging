@@ -6,7 +6,7 @@ Revised existing HTML code to incorporate sematic tags where needed and to add a
 
 ## Screen Shot
 
-![Here is a link to a screen shot of the home page.](assets/images/webscreenshot.png)
+![Here is a link to a screen shot of the home page.](assets/images/01-web-grab.png)    
 
 ## Link to deployed page
 
