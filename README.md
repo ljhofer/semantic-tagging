@@ -10,4 +10,4 @@ Revised existing HTML code to incorporate sematic tags where needed and to add a
 
 ## Link to deployed page
 
-![Here is the link to my deployed code:](https://ljhofer.github.io/semantic-tagging/)
+[Here is the link to my deployed code:](https://ljhofer.github.io/semantic-tagging/)
